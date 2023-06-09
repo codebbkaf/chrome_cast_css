@@ -1,0 +1,31 @@
+/* custom.css */
+
+/* 背景色設定為藍色 */
+body {
+  background-color: blue;
+}
+
+/* 字體設定為白色 */
+h1, p {
+  color: white;
+}
+
+/* 按鈕樣式設定 */
+button {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+}
+
+/* 鏈結樣式設定 */
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+/* 滑鼠懸停時變換顏色 */
+a:hover {
+  color: orange;
+}
